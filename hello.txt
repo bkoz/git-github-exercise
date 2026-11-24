@@ -1,1 +1,2 @@
 Hello from Git! I’m learning version control.
+This is my second change.
